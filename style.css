@@ -331,7 +331,7 @@ header .master_play .vol input{
      width:90%;
      height: 30%;
      margin: auto;
-     background-image: url(/img/galbanjae.png);
+     background-image: url(img/galbanjae.png);
      /* border: 1px solid #fff; */
      padding-top: 20px;
  }
